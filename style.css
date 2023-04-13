@@ -28,6 +28,7 @@ ul, ol{padding: 10px 30px;background-color: #e2e2e2;width: fit-content;}
 pre{
     padding: 6px 10px;width: fit-content;
     background-color: #121212;color: #e2e2e2;
+    position: relative;
 }
 
 @media screen and (max-width: 800px) {
